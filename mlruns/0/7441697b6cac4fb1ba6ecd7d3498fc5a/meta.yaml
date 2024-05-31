@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ashok/D/study%20material/MLOPS%20Project/first_mlops_project/mlruns/0/7441697b6cac4fb1ba6ecd7d3498fc5a/artifacts
+end_time: 1717187220214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7441697b6cac4fb1ba6ecd7d3498fc5a
+run_name: capable-kit-4
+run_uuid: 7441697b6cac4fb1ba6ecd7d3498fc5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717187212818
+status: 3
+tags: []
+user_id: ashok
